@@ -1,1 +1,128 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T15:07:49.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.6" etag="qvWXQJ31BiKxqlxGLYRa" type="github"><diagram name="第 1 页" id="DGYAnKELaAZZ010Fq2jf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-13T15:45:43.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3tsCXlYNUF6tj0DhCABu" version="21.0.6" type="github">
+  <diagram name="第 1 页" id="DGYAnKELaAZZ010Fq2jf">
+    <mxGraphModel dx="2073" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-39" value="" style="rounded=0;whiteSpace=wrap;html=1;textOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="252" y="315" width="379" height="136" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-1" value="Code" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;horizontal=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="252" y="93" width="63" height="429" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=0;" vertex="1" parent="Mmfen2wpMoASSCn0fSeZ-1">
+          <mxGeometry x="21" y="78.5" width="21" height="297" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-6" value="Redis" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;horizontal=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="406" y="93" width="63" height="429" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=0;" vertex="1" parent="Mmfen2wpMoASSCn0fSeZ-6">
+          <mxGeometry x="19" y="113" width="22.5" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=0;" vertex="1" parent="Mmfen2wpMoASSCn0fSeZ-6">
+          <mxGeometry x="20.25" y="321" width="22.5" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-7" value="Mysql" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=1;horizontal=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="551" y="93" width="63" height="429" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=0;" vertex="1" parent="Mmfen2wpMoASSCn0fSeZ-7">
+          <mxGeometry x="20.25" y="232" width="22.75" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-8" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="101" y="93" width="56" height="429" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};rounded=0;" vertex="1" parent="Mmfen2wpMoASSCn0fSeZ-8">
+          <mxGeometry x="17.5" y="60" width="21.5" height="334" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-12" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;startSize=12;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="142" y="186" as="sourcePoint" />
+            <mxPoint x="272" y="186" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-13" value="获取值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="Mmfen2wpMoASSCn0fSeZ-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-15" value="返回值或者空" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-192.99769094246335" y="204.00011832219184" as="geometry">
+            <mxPoint x="551" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="296" y="213" as="sourcePoint" />
+            <mxPoint x="426" y="213" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="365" y="213" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-17" value="获取值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="Mmfen2wpMoASSCn0fSeZ-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-22" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.8571" y="-13" relative="1" as="geometry">
+            <mxPoint x="423" y="271" as="sourcePoint" />
+            <mxPoint x="297" y="271" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="271" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-26" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="295.25" y="350" as="sourcePoint" />
+            <mxPoint x="571.25" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-27" value="如果值是空,获取值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="Mmfen2wpMoASSCn0fSeZ-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-28" value="返回值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-114.99769094246335" y="331.00011832219184" as="geometry">
+            <mxPoint x="551" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-32" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="295" y="439" as="sourcePoint" />
+            <mxPoint x="424" y="439" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="372" y="439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-33" value="设置值" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="Mmfen2wpMoASSCn0fSeZ-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-34" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="568" y="396" as="sourcePoint" />
+            <mxPoint x="294" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-35" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270.5" y="460" as="sourcePoint" />
+            <mxPoint x="143" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-36" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;返回值&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="179.0033282470703" y="427.9966870117188" width="82" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Mmfen2wpMoASSCn0fSeZ-44" value="备注:值为空才会触发这个方框内的逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="640" y="321" width="317" height="88" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
