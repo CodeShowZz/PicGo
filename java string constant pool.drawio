@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T15:33:34.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HkbDumnF1WGSQ-W7JZ0Z" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-27T16:04:26.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="VNnaUX9D-QnBI7YfV_Ls" version="21.0.6" type="github">
   <diagram name="第 1 页" id="uFpwxGLy6YJfdJJdwBbi">
     <mxGraphModel dx="2286" dy="903" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,32 @@
         </mxCell>
         <mxCell id="fYVHIgQ5rP5VqWUu2Dhq-20" value="String s3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-99" y="445" width="68" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="fYVHIgQ5rP5VqWUu2Dhq-25" value="abc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="91" y="479" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="fYVHIgQ5rP5VqWUu2Dhq-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="fYVHIgQ5rP5VqWUu2Dhq-27" target="fYVHIgQ5rP5VqWUu2Dhq-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYVHIgQ5rP5VqWUu2Dhq-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="fYVHIgQ5rP5VqWUu2Dhq-27" target="fYVHIgQ5rP5VqWUu2Dhq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fYVHIgQ5rP5VqWUu2Dhq-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="fYVHIgQ5rP5VqWUu2Dhq-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYVHIgQ5rP5VqWUu2Dhq-27" value="String s1 = s + &quot;def&quot;;被改写成String s1 = new StringBuilder(&quot;abc&quot;).append(&quot;def&quot;).toString();" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="114" y="621" width="335" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="fYVHIgQ5rP5VqWUu2Dhq-33" value="&lt;br style=&quot;border-color: var(--border-color); font-size: 15px;&quot;&gt;append(&quot;def&quot;)中的&quot;def&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="362" y="476.5" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fYVHIgQ5rP5VqWUu2Dhq-35" value="new StringBuilder(&quot;abc&quot;)生成的" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="546" width="207" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="fYVHIgQ5rP5VqWUu2Dhq-36" value="最后的toString生成的" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="149" y="408.5" width="123" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
